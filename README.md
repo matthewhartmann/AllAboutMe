@@ -6,7 +6,7 @@ The 5 pages of my website are going to be:
 3. Coaching
 4. Divison
 
-All information was found [here.](www.chicagobears.com)
+All information was found [here.](https://www.chicagobears.com/)
 
 Thanks for visiting my web page. Hope you enjoy.
 *Bear Down*
